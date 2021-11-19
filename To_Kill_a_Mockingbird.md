@@ -1,6 +1,6 @@
 # Quotes from To Kill a Mockingbird (Harper Lee)
 
-![Book Cover](C:/Users/Sheela/Desktop/WorkinProgress/GitHub/Literature-Quotes/images/Mockingbird.jpg)
+![Book Cover](images/Mockingbird.jpg)
 
 ## Contextual quotes (relevant to the book and the time it was written in)
 1. “Shoot all the bluejays you want, if you can hit ’em, but remember it’s a sin to kill a mockingbird.”
